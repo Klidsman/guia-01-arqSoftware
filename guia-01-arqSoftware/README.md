@@ -14,4 +14,4 @@ DOCENTE: Ing. LIZBETH JAICO QUISPE
 • imágenes del paso 1 y paso 2
 
 
-![PASO 1](guia-01-arqSoftware\imagenes)
+![PASO 1](guia-01-arqSoftware\imagenes\1.png)
