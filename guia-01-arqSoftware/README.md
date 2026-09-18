@@ -15,3 +15,5 @@ DOCENTE: Ing. LIZBETH JAICO QUISPE
 
 
 ![PASO 1](imagenes/1.png)
+
+![PASO 1](imagenes/2.png)
